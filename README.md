@@ -155,11 +155,8 @@ Relationships were structured to maintain referential integrity and optimise per
 
 ## 📷 Dashboard Preview
 
-_Add screenshots below once uploaded to the repository_
 
-```markdown
-![Dashboard Overview](dashboard-overview.png)
-![Data Model](data-model.png)
+
 ```
 
 ---

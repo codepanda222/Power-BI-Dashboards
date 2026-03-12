@@ -287,8 +287,8 @@ Relationships were structured to maintain referential integrity and optimise per
 Business Analyst | Power BI Developer  
 Melbourne, Australia  
 
-🔗 LinkedIn: [https://www.linkedin.com/in/ajaychavan15/](url)
-📧 Email: chavanajay1915@gmail.com  
+-  🔗 LinkedIn: [https://www.linkedin.com/in/ajaychavan15/](url)
+-  📧 Email: chavanajay1915@gmail.com  
 
 ---
 

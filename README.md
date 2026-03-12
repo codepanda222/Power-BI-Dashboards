@@ -79,53 +79,52 @@ https://api.businesscentral.dynamics.com/v2.0/{tenant}/Production/ODataV4/Compan
 
 ## 📊 Dashboard Modules
 
-## 📊 Dashboard Modules
 
-### 1️⃣ Total Sales Analysis
-- 📅 **Total Sales by Month**
-- 📍 **Sales by Location Code**
-- 👤 **Sales by Salesperson**
-- 📈 **Monthly Sales Trends & Performance**
-
----
-
-### 2️⃣ Top Customers Performance
-- 📦 **Top 20 Customers by Revenue**
-- 🏢 **Customer Sales by Branch**
-- 👤 **Customer Sales by Salesperson**
-- 📊 **Revenue Contribution % by Customer**
+### Total Sales Analysis
+- 📅 Total Sales by Month
+- 📍 Sales by Location Code
+- 👤 Sales by Salesperson
+- 📈 Monthly Sales Trends & Performance
 
 ---
 
-### 3️⃣ Backorders Monitoring
-- 🔁 **Backorders by Salesperson**
-- 👤 **Backorders by Customer**
-- 📦 **Backorders by Product / Item**
-- 💰 **Outstanding Order Value**
+### Top Customers Performance
+- 📦 Top 20 Customers by Revenue
+- 🏢 Customer Sales by Branch
+- 👤 Customer Sales by Salesperson
+- 📊 Revenue Contribution % by Customer
 
 ---
 
-### 4️⃣ Open Quotes Analysis
-- 📝 **Open Quote Value by Location**
-- 👤 **Open Quotes by Salesperson**
-- 💰 **Total Outstanding Quote Value**
-- 📊 **Quote Pipeline Overview**
+###  Backorders Monitoring
+- 🔁 Backorders by Salesperson
+- 👤 Backorders by Customer
+- 📦 Backorders by Product / Item
+- 💰 Outstanding Order Value
 
 ---
 
-### 5️⃣ Quote Conversion Performance
-- 📈 **Converted Quote Value by Location**
-- 👤 **Converted Quotes by Salesperson**
-- 🔄 **Quote-to-Sales Conversion Rate**
-- 💰 **Revenue from Converted Quotes**
+###  Open Quotes Analysis
+- 📝 Open Quote Value by Location
+- 👤 Open Quotes by Salesperson
+- 💰 Total Outstanding Quote Value
+- 📊 Quote Pipeline Overview
 
 ---
 
-### 6️⃣ Location & Salesperson Performance
-- 🏆 **Total Sales by Location Code**
-- 👤 **Sales by Salesperson**
-- 📊 **Branch-wise Revenue Distribution**
-- 📈 **Salesperson Performance Ranking**
+###  Quote Conversion Performance
+- 📈 Converted Quote Value by Location
+- 👤 Converted Quotes by Salesperson
+- 🔄 Quote-to-Sales Conversion Rate
+- 💰 Revenue from Converted Quotes
+
+---
+
+### Location & Salesperson Performance
+- 🏆 Total Sales by Location Code
+- 👤 Sales by Salesperson
+- 📊 Branch-wise Revenue Distribution
+- 📈 Salesperson Performance Ranking
 ---
 
 ## 📈 Key DAX Measures

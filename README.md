@@ -1,4 +1,4 @@
-# 📊 Power BI Sales & Operations Analytics  
+# 📊 Annual Sales Performance by Branch and Salesperson
 ### Microsoft Dynamics 365 Business Central Integrated Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
@@ -14,13 +14,14 @@ This project delivers an end-to-end Power BI reporting solution built on data ex
 
 The dashboard provides real-time visibility into:
 
-- 📈 Sales by Vendor  
-- 📦 Open Purchase Orders by Brand  
-- 🔁 Backorders by Vendor & Product  
-- 📝 Quotes by Product  
-- 🏆 Top 20–50 Customers by Revenue  
+- 📈 Total Sales by Month, Location Code & Salesperson  
+- 📦 Top 20 Customers by Branch & Salesperson
+- 🔁 Backorders by Salesperson
+- 📝 Open quote value by Location and Salesperson
+- 📈 Converted quote value by Location and Salesperson
+- 🏆 Total Sales by Location code and Salesperson
 
-The objective is to support operational and strategic decision-making across procurement, sales, and inventory planning.
+The objective is to support operational and strategic decision-making across sales, resources and inventory planning.
 
 ---
 
@@ -28,7 +29,7 @@ The objective is to support operational and strategic decision-making across pro
 
 Designed for a distribution-based ERP environment where:
 
-- Multiple vendors and brands are managed
+- Multiple products and brands are managed
 - Inventory turnover impacts cash flow
 - Backorders affect customer satisfaction
 - Reporting is required across transactional ERP tables
@@ -78,31 +79,53 @@ https://api.businesscentral.dynamics.com/v2.0/{tenant}/Production/ODataV4/Compan
 
 ## 📊 Dashboard Modules
 
-### 1️⃣ Sales by Product Vendor
-- Total Revenue by Vendor  
-- Gross Margin %  
-- Quantity Sold  
-- Vendor Contribution %  
+## 📊 Dashboard Modules
 
-### 2️⃣ Open Purchase Orders by Brand
-- Outstanding Quantity  
-- Expected Receipt Date  
-- Vendor Exposure  
+### 1️⃣ Total Sales Analysis
+- 📅 **Total Sales by Month**
+- 📍 **Sales by Location Code**
+- 👤 **Sales by Salesperson**
+- 📈 **Monthly Sales Trends & Performance**
 
-### 3️⃣ Backorders Analysis
-- Backorders by Vendor  
-- Backorders by Product  
-- Backorders by Customer  
+---
 
-### 4️⃣ Quotes by Product
-- Quote Value by Item  
-- Conversion tracking  
+### 2️⃣ Top Customers Performance
+- 📦 **Top 20 Customers by Revenue**
+- 🏢 **Customer Sales by Branch**
+- 👤 **Customer Sales by Salesperson**
+- 📊 **Revenue Contribution % by Customer**
 
-### 5️⃣ Top 20–50 Customers
-- Revenue Ranking  
-- Contribution %  
-- Revenue Distribution  
+---
 
+### 3️⃣ Backorders Monitoring
+- 🔁 **Backorders by Salesperson**
+- 👤 **Backorders by Customer**
+- 📦 **Backorders by Product / Item**
+- 💰 **Outstanding Order Value**
+
+---
+
+### 4️⃣ Open Quotes Analysis
+- 📝 **Open Quote Value by Location**
+- 👤 **Open Quotes by Salesperson**
+- 💰 **Total Outstanding Quote Value**
+- 📊 **Quote Pipeline Overview**
+
+---
+
+### 5️⃣ Quote Conversion Performance
+- 📈 **Converted Quote Value by Location**
+- 👤 **Converted Quotes by Salesperson**
+- 🔄 **Quote-to-Sales Conversion Rate**
+- 💰 **Revenue from Converted Quotes**
+
+---
+
+### 6️⃣ Location & Salesperson Performance
+- 🏆 **Total Sales by Location Code**
+- 👤 **Sales by Salesperson**
+- 📊 **Branch-wise Revenue Distribution**
+- 📈 **Salesperson Performance Ranking**
 ---
 
 ## 📈 Key DAX Measures
@@ -157,7 +180,6 @@ Relationships were structured to maintain referential integrity and optimise per
 
 
 
-```
 
 ---
 

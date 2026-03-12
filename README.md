@@ -184,10 +184,53 @@ Relationships were structured to maintain referential integrity and optimise per
 
 ## 📌 Business Insights Generated
 
-- Top 10 customers contribute ~60% of total revenue  
-- Vendor concentration risk identified across major brands  
-- Backorders concentrated in high-demand SKUs  
-- Purchase order exposure identified across suppliers  
+
+### 📈 Sales Performance Trends
+- Total sales reached **$77M**, with monthly sales ranging between **$1.5M–$2.8M**.
+- Sales show **seasonal fluctuations**, with peaks around mid-year periods.
+
+---
+
+### 📍 Branch Performance
+- **Melbourne** is the top-performing branch (~$26M), followed by **Albury (~$18.7M)**.
+- Other branches like **Adelaide, Townsville, and Gippsland** contribute moderate revenue.
+
+---
+
+### 👤 Salesperson Performance
+- **AWEYMOUTH** and **PWILSON** are the highest revenue-generating salespeople.
+- Sales performance is **concentrated among a few top performers**.
+
+---
+
+### 🏆 Customer Revenue Contribution
+- **Top 20 customers generate over $12M in revenue**.
+- The largest customer contributes **over $1.2M individually**.
+
+---
+
+### 🔁 Backorders Analysis
+- Backorders are heavily concentrated under **one salesperson (JTANTI)**.
+- Indicates potential **inventory shortages or supply chain delays**.
+
+---
+
+### 📝 Open Quotes Pipeline
+- **Melbourne has the highest open quote value**, indicating strong future sales potential.
+- **PWILSON leads the quote pipeline** among salespeople.
+
+---
+
+### 📊 Quote Conversion Performance
+- Total **converted quote value is ~$15.3K across 478 quotes**.
+- **Melbourne and PWILSON** lead quote conversions.
+
+---
+
+### 🚀 Strategic Takeaways
+- Revenue is **highly concentrated in key locations, salespeople, and customers**.
+- Improving **inventory management and quote conversion strategies** could enhance operational efficiency.
+- Expanding sales across **underperforming branches** may unlock additional growth.
 
 ---
 
@@ -202,14 +245,15 @@ Relationships were structured to maintain referential integrity and optimise per
 
 ---
 
-## 💼 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-✔ ERP Data Extraction via API  
-✔ Enterprise Data Modelling  
-✔ Advanced DAX Calculations  
-✔ KPI Framework Development  
-✔ Business Insight Communication  
-✔ Performance Optimisation  
+- **Data Visualisation:** Designed interactive Power BI dashboards to analyse sales, customers, quotes, and backorders.
+- **Data Modelling:** Built relationships between sales, customer, quote, and location datasets for integrated analysis.
+- **Data Transformation (ETL):** Cleaned and prepared ERP data using Power Query for consistent reporting.
+- **DAX & Metrics Development:** Created measures such as Total Sales, MTD/YTD sales, quote conversion, and backorder quantities.
+- **Business Analysis:** Identified key trends in branch performance, salesperson productivity, and customer revenue.
+- **Interactive Reporting:** Implemented filters, slicers, and drill-through functionality for dynamic data exploration.
+- **Business Intelligence:** Transformed Microsoft Dynamics 365 Business Central data into actionable insights for decision-making.
 
 ---
 

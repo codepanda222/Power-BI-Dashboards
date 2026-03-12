@@ -234,17 +234,6 @@ Relationships were structured to maintain referential integrity and optimise per
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Update OData credentials  
-4. Refresh data  
-
-> ⚠️ Live ERP connection requires Business Central access.
-
----
-
 ## 🧠 Skills Demonstrated
 
 - **Data Visualisation:** Designed interactive Power BI dashboards to analyse sales, customers, quotes, and backorders.
@@ -254,6 +243,17 @@ Relationships were structured to maintain referential integrity and optimise per
 - **Business Analysis:** Identified key trends in branch performance, salesperson productivity, and customer revenue.
 - **Interactive Reporting:** Implemented filters, slicers, and drill-through functionality for dynamic data exploration.
 - **Business Intelligence:** Transformed Microsoft Dynamics 365 Business Central data into actionable insights for decision-making.
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Update OData credentials  
+4. Refresh data  
+
+> ⚠️ Live ERP connection requires Business Central access.
 
 ---
 

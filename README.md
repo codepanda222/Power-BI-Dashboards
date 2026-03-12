@@ -61,7 +61,7 @@ Power BI connects directly to Business Central via OData endpoints:
 https://api.businesscentral.dynamics.com/v2.0/{tenant}/Production/ODataV4/Company('CompanyName')/
 ```
 
-### Tables Integrated
+### 🏢 Tables Integrated
 
 - Sales Header  
 - Sales Line  
@@ -72,7 +72,7 @@ https://api.businesscentral.dynamics.com/v2.0/{tenant}/Production/ODataV4/Compan
 - Customer  
 - Item Ledger Entries  
 
-### Key Technical Challenges Resolved
+### 🧠 Key Technical Challenges Resolved
 
 - HTTP 400 errors due to missing Document IDs  
 - Relationship modelling between Header and Line tables  

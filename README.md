@@ -176,20 +176,29 @@ Relationships were structured to maintain referential integrity and optimise per
 ---
 
 ## 📷 Dashboard Preview
-### 📈 Sales Overview Dashboard
-![Sales Dashboard](Annual Sales Report Home.JPG)
+
+### 📈 Sales Overview
+![Sales Overview](Annual Sales Report Home.JPG)
+
+---
 
 ### 🏆 Top Customers Analysis
 ![Top Customers](Annual Sales Report Top Customers.JPG)
 
-### 🔁 Quote Conversion Analysis
-![Backorders](Quote Conversion Value and Count.JPG)
+---
 
-### 📊 Quote Conversion Analysis
-![Quote Conversion](images/quote-conversion.png)
+### 🔄 Quote Conversion Dashboard
+![Quote Conversion](Quote Conversion Value and Count.JPG)
+
+---
 
 ### 👤 Salesperson Performance
-![Salesperson Performance](images/salesperson-performance.png)
+![Salesperson Performance](Salesperson Performance 1.JPG)
+
+---
+
+### 📊 Salesperson Performance Details
+![Salesperson Performance Details](Salesperson Performance 2.JPG)
 
 
 

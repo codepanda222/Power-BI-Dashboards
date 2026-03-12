@@ -283,12 +283,14 @@ Relationships were structured to maintain referential integrity and optimise per
 
 ## 👤 Author
 
-**Ajay Chavan**  
-Business Analyst | Power BI Developer  
-Melbourne, Australia  
+**Ajay Chavan**
 
--  🔗 LinkedIn: [https://www.linkedin.com/in/ajaychavan15/](url)
--  📧 Email: chavanajay1915@gmail.com  
+Business Analyst | Power BI Developer  
+Melbourne, Australia
+
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ajaychavan15](https://www.linkedin.com/in/ajaychavan15)
+- 📧 Email: chavanajay1915@gmail.com
+- ▶️ YouTube: [https://www.youtube.com/@Mustangyoda](https://www.youtube.com/@Mustangyoda) 
 
 ---
 

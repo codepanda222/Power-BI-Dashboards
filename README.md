@@ -25,8 +25,6 @@ The objective is to support operational and strategic decision-making across sal
 
 ---
 
-## 🏢 Business Context
-
 ## 🌐 Business Context
 
 This dashboard was developed for a **sales-driven distribution business using Microsoft Dynamics 365 Business Central**.

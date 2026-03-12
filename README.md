@@ -27,14 +27,21 @@ The objective is to support operational and strategic decision-making across sal
 
 ## 🏢 Business Context
 
-Designed for a distribution-based ERP environment where:
+## 🌐 Business Context
 
-- Multiple products and brands are managed
-- Inventory turnover impacts cash flow
-- Backorders affect customer satisfaction
-- Reporting is required across transactional ERP tables
+This dashboard was developed for a **sales-driven distribution business using Microsoft Dynamics 365 Business Central**.
 
-The key challenge was transforming ERP transactional data into an optimised analytical model.
+The organisation manages multiple branches and sales teams, where performance is measured through sales revenue, customer relationships, and quote conversion effectiveness.
+
+Key operational considerations include:
+
+- Monitoring **sales performance across branches and salespeople**
+- Identifying **high-value customers and revenue concentration**
+- Tracking **backorders that may impact order fulfilment**
+- Analysing **quote pipelines and conversion rates to forecast revenue**
+- Providing **real-time visibility into sales and operational performance**
+
+The primary challenge was transforming **ERP transactional data from Business Central into a structured analytical model** that supports strategic and operational decision-making.
 
 ---
 
